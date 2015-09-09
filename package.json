@@ -1,0 +1,26 @@
+{
+  "name": "whitespace-interpreter",
+  "version": "0.0.1",
+  "description": "An interpreter for Whitespace programming language",
+  "main": "whitespace.js",
+  "scripts": {
+    "test": "istanbul cover _mocha --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/whitespace.git"
+  },
+  "keywords": [
+    "whitespace",
+    "interpreter",
+    "isoteric",
+    "programming",
+    "language"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/whitespace/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/whitespace#readme"
+}
